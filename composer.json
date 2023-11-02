@@ -11,6 +11,7 @@
         "laravel/passport": "^11.9",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
+        "laravel/ui": "^4.2",
         "tcg/voyager": "dev-1.6-l10"
     },
     "require-dev": {

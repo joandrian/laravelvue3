@@ -30,7 +30,7 @@ const actions = {
       const subjects = response.data;
 
       // Commit the subjects to the state
-      $store.commit(types.SET_SUBJECT_NAME, subjects);
+     commit(types.SET_SUBJECT_NAME, subjects);
         }
     } catch (error) {
       console.error('Failed to fetch user subjects:', error);

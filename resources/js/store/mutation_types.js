@@ -1,3 +1,1 @@
-export const MUTATION_TYPES = {
-    SET_SUBJECT_NAME: 'SET_SUBJECT_NAME',
-  };
+export const SET_SUBJECT_NAME = 'SET_SUBJECT_NAME';
